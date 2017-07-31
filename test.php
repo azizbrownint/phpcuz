@@ -10,5 +10,5 @@
 		echo "Welcome sovereign.";
 	}
 
-//do whatever you want here man. test out what you learn!
+//do whatever you want here man. test out what you learn and run the code at http://phpfiddle.org/
 ?>
