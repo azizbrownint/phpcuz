@@ -10,5 +10,7 @@
 		echo "Welcome sovereign.";
 	}
 
-//do whatever you want here man. test out what you learn and run the code at http://phpfiddle.org/
+	$str = "The quick brown fox ";
+		echo $str;
+		echo "<i>dabs</i> over the lazy dog.";
 ?>
